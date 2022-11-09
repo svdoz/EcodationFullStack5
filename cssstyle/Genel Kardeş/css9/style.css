@@ -1,0 +1,13 @@
+h3 ~ p{
+    color:red;
+}
+ul li.list2 ~   li {
+    color:blue;
+}
+/*
+ul li.list2 ~ p{
+color:blue;
+}
+bunu yapamayaız çünkü ul li nin ebeveyni ama p bunların
+dışında.oyüzden bunu gerçekleştiremeyiz.
+*/

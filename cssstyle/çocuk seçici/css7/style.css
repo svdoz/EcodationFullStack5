@@ -1,0 +1,10 @@
+p > b {
+    color:red;
+}
+p > em {
+    color:blue;
+}
+
+/* 2.satırda p etiketinin içindekiler olmadı çünkü orada b etiketinin ve em etiketinin
+ebeveyini span etikeditidir.
+*/
